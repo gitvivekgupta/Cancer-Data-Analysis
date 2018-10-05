@@ -9,6 +9,9 @@ OBJECTIVE:
 1. Built a classifier to identify patients with benign or malignant tumor based on the tumor characteristics.
 Ans.
 
+![alt text](https://github.com/gitvivekgupta/Cancer-Data-Analysis/blob/master/adhesion.png)
+
+
 2. Reduce your false positives as well as false negatives.
 Ans.
 
