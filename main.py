@@ -18,12 +18,10 @@ data = pd.read_csv('Meddata.csv', header=0)
 data = data.dropna()
 # print(data.shape)
 # print(list(data.columns))
-# sns.countplot(x='Class',data=data, palette='hls')
-# plt.show()
 
 # print(data.isnull().sum())
 
-sns.countplot(y="Mitoses", data=data)
+sns.countplot(y="Class", data=data)
 plt.show()
 
 exit(0)
